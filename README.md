@@ -82,6 +82,6 @@ I am actively looking for **Data Engineering** and **Data Science** roles, and o
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmadghalawinji&color=c8a96e&style=flat&label=Profile+Views" alt="profile views" />
-</p>
+</p> -->
