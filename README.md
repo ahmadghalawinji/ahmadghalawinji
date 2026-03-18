@@ -78,7 +78,7 @@ I build production-grade data pipelines and ML systems. My background spans data
 I am actively looking for **Data Engineering** and **Data Science** roles, and open to **PhD research collaborations**.
 
 [![Email](https://img.shields.io/badge/Email-ahmadghalawinji@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ahmadghalawinji@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmad%20Ghalawinji-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadghalawinji)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmad%20Ghalawinji-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmad-ghalawinji)
 
 ---
 
